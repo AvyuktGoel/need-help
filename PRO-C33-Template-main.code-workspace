@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../avy/PRO-C33-Template-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pro34-Project-Boilerplate-main"
+	}
+}
